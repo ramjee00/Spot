@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/logo.png", Star Sports
+https://example.com/live-stream-link.m3u8
